@@ -28,13 +28,7 @@ namespace GradeBook
             // dividing by Count
             result /= grades.Count;
             Console.WriteLine($"The average grade is {result:N1}!");
-
-            if (args.Length > 0) {
-            // whats executed when method runs
-            Console.WriteLine($"Hello, {args[0]}!");
-            } else {
-                Console.WriteLine("HELLO!");
-            }
         }
+
     }
 }
