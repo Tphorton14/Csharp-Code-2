@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tphor\\Csharp-Practice-Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "C:\\Users\\Tphor\\Csharp-Code-2\\gradebook\\src\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "C:\\Users\\Tphor\\Csharp-Practice-Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectPath": "C:\\Users\\Tphor\\Csharp-Code-2\\gradebook\\src\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\Tphor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tphor\\Csharp-Practice-Code\\gradebook\\src\\GradeBook\\obj\\",
+      "outputPath": "C:\\Users\\Tphor\\Csharp-Code-2\\gradebook\\src\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tphor\\AppData\\Roaming\\NuGet\\NuGet.Config"
