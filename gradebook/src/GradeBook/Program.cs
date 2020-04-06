@@ -4,16 +4,15 @@ using System.Linq;
 
 namespace GradeBook
 {
+
     class Program
     {
         // method
         // when dotnet runs it looks for "Main"
         static void Main(string[] args)
         {
-            // var x = 34.1;
-            // var y = 10.3;
-            // var result = x + y;
-            // Console.WriteLine(result);
+            var book = new Book();
+            book.AddGrade(89.1);
 
             var grades = new List<double>() { 12.7, 14.5, 15.8 };
             grades.Add(56.1);
@@ -31,4 +30,3 @@ namespace GradeBook
         }
 
     }
-}
