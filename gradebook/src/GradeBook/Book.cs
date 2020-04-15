@@ -13,7 +13,7 @@ class Book {
         grades.Add(grade);
     }
     List<double> grades;
-    private string name;
+    Static private string name;
     }
 
 }
